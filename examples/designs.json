@@ -1,0 +1,17 @@
+{
+  "designs": [
+    {
+      "key": "sad4",
+      "top": "sad4",
+      "src_files": ["sad4/sad4.v"],
+      "lang": "v",
+      "clocks": ["clk"],
+      "resets": [["rst_n", "low"]],
+      "inputs": [["valid_in", 1], ["a", 32], ["b", 32]],
+      "outputs": [["sad", 10], ["valid_out", 1]],
+      "extract_top": false,
+      "clock_gating": true,
+      "pt_hold": []
+    }
+  ]
+}

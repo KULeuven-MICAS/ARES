@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use ARES, please cite the paper below."
+title: "ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/KULeuven-MICAS/ARES"
+authors:
+  - family-names: Cuyckens
+    given-names: Stef
+  - family-names: Jivanescu
+    given-names: Mihaela
+  - family-names: Yin
+    given-names: Jun
+  - family-names: Fang
+    given-names: Chao
+  - family-names: Verhelst
+    given-names: Marian
+preferred-citation:
+  type: article
+  title: "ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents"
+  authors:
+    - family-names: Cuyckens
+      given-names: Stef
+    - family-names: Jivanescu
+      given-names: Mihaela
+    - family-names: Yin
+      given-names: Jun
+    - family-names: Fang
+      given-names: Chao
+    - family-names: Verhelst
+      given-names: Marian
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2607.27879"
+  url: "https://arxiv.org/abs/2607.27879"

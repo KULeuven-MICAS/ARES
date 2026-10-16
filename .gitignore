@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Runtime state of ARES (work folders, library cache, provider homes, results)
+.work/
+.apptainer/
+results/
+private/
+dist/
+
+# Private configuration and login data
+config/designs.json
+config/prices.json
+*.env
+.env
+auth.json
+.credentials.json
+*-token
+private-settings.sh
+
+# Run records and logs
+*.jsonl
+*.sqlite*
+*.log

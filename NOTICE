@@ -1,0 +1,10 @@
+ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL
+Optimization with LLM Agents
+Copyright 2026 KU Leuven.
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes the NanGate 45 nm Open Cell Library in tech/nangate45/,
+Copyright 2004-2011 Nangate Inc., licensed under the Apache License, Version 2.0.
+The file tech/nangate45/NangateOpenCellLibrary.v is derived from the Liberty
+file of that library (see tech/nangate45/README.md).
